@@ -56,3 +56,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Jupyter lab
+.ipynb_checkpoints
+deep-learning-from-scratch-master/
